@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #2d6dfc;
+
+}
+textarea{
+    height: 45vh;
+    width: 40vw;
+    margin-left: 29%;
+    margin-top: 3%;
+    border: solid black 2px;
+    border-radius: 3%;
+    font-size: x-large;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: grey;
+    visibility: hidden;
+}
+button{
+    font-size: larger;
+    background-color: #2d6dfc;
+    color: white;
+    height: 50px;
+    width: 130px;
+    border-color: white;
+    border-radius: 8%;
+    cursor: pointer;
+    margin-left: 29%;
+    margin-top: 3%;
+}
